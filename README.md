@@ -12,7 +12,6 @@
 **EyeCLIP** adapts the CLIP (Contrastive Language–Image Pretraining) architecture to address the unique challenges of ophthalmology. It incorporates self-supervised learning, multi-modal image contrastive learning, and hierarchical keyword-guided vision-language supervision. These innovations empower EyeCLIP to achieve **zero-shot disease recognition**, **cross-modal retrieval**, and **efficient fine-tuning** across a wide range of ophthalmic and systemic conditions.
 
 ---
-
 ## ✨ Key Features
 
 * 🧠 **Multimodal Support**
@@ -42,7 +41,7 @@
 ---
 
 ## 🗞️ News
-
+* **2025-02**: Updated model weights. Fixed an issue where the text encoder weights were corrupted in the previous checkpoint. Please re-download the latest checkpoint to ensure proper functionality.
 * **2025-07**: Initial release of pre-trained EyeCLIP model weights
 * **2025-06**: Paper accepted by *npj Digital Medicine*
 * **2025-03**: Public release of EyeCLIP codebase
@@ -67,7 +66,7 @@ cd EyeCLIP
 
 | Model Name           | Description                                                    | Download Link                      |
 | -------------------- | -------------------------------------------------------------- | ---------------------------------- |
-| `eyeclip_visual` | Multimodal foundation model trained on diverse ophthalmic data | [🔗 Google Drive](https://drive.google.com/file/d/1u_pUJYPppbprVQQ5jaULEKKp-eJqaVw6/view?usp=sharing) |
+| `eyeclip_visual` | Multimodal foundation model trained on diverse ophthalmic data | [🔗 Google Drive](https://drive.google.com/file/d/1kWpbDqFCFt4j8RkYqacV4nl-aCKZfqZr/view?usp=sharing) |
 
 ---
 
