@@ -41,7 +41,7 @@
 ---
 
 ## 🗞️ News
-* **2025-02**: Updated model weights. Fixed an issue where the text encoder weights were corrupted in the previous checkpoint. Please re-download the latest checkpoint to ensure proper functionality.
+* **2026-02**: Updated model weights. Fixed an issue where the text encoder weights were corrupted in the previous checkpoint. Please re-download the latest checkpoint to ensure proper functionality.
 * **2025-07**: Initial release of pre-trained EyeCLIP model weights
 * **2025-06**: Paper accepted by *npj Digital Medicine*
 * **2025-03**: Public release of EyeCLIP codebase
